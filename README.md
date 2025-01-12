@@ -19,9 +19,8 @@ Welcome to my GitHub profile! I'm currently a **Cybersecurity student** with a k
 
 ## 🚀 Current Projects
 
-1. **Smart Plant Monitoring System**: A system to monitor temperature, humidity, and soil moisture for tomato crops.
-2. **TalkTap**: A secure chat application built with Python (Flask) and MongoDB that supports private/group chats, real-time messaging, and user authentication.
-3. **Hackathon Prep**: Currently working on improving my skills in **ethical hacking** and **cybersecurity** for upcoming challenges.
+1. **TalkTap**: A secure chat application built with Python (Flask) and MongoDB that supports private/group chats, real-time messaging, and user authentication.
+2. **Hackathon Prep**: Currently working on improving my skills in **ethical hacking** and **cybersecurity** for upcoming challenges.
 
 ## 📚 Learning Goals
 
@@ -31,7 +30,7 @@ Welcome to my GitHub profile! I'm currently a **Cybersecurity student** with a k
 
 ## 📬 How to Reach Me
 
-- [LinkedIn]() 
+- [LinkedIn](https://www.linkedin.com/in/mohammadazri/) 
 - [Instagram](https://www.instagram.com/azrimohammad2004/) 
 - [Email](mailto:mohameddazri655@gmail.com)
 
